@@ -1,2 +1,3 @@
-# [Product-Landing-Page] (https://faunon.github.io/Product-Landing-Page/)
-This is my Product-Landing-Page for katanas 
+This is my Product-Landing-Page for katanas URL:
+[Product Landing Page](https://faunon.github.io/Product-Landing-Page/) 
+
